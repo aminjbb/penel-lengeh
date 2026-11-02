@@ -1,0 +1,6 @@
+{
+  "name": "پنل فروشگاه لنگه | Lengeh Store Panel",
+  "description": "پنل جامع مدیریت فروشگاه لنگه برای مدیریت کاتالوگ، واریانت‌ها، موجودی و رزرو، اصالت و سریال نسخه‌های محدود، سفارش‌ها، پرداخت و ارسال، مرجوعی و بازاریابی",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
